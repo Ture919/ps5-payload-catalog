@@ -39,6 +39,19 @@
       "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd",
       "author": "drakmor",
       "source": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta12"
+    },
+    {
+      "id": "orbit-store",
+      "name": "Orbit Store",
+      "filename": "orbit_store.elf",
+      "url": "https://github.com/saawant12/orbit-store-ps5/releases/download/v1.9.0/orbit_store.elf",
+      "description": "Orbit Store download service and browser interface (also used by Orbit Zero on PC).",
+      "version": "v1.9.0",
+      "last_update": "2026-11-13",
+      "category": "Stores",
+      "checksum": "4d2b78ad4c0de1211b93664d5401beb1e19e54452fccc74886d4cb63b659439a",
+      "author": "saawant12",
+      "source": "https://github.com/saawant12/orbit-store-ps5/releases/tag/v1.9.0"
     }
   ]
 }

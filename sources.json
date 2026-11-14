@@ -28,5 +28,15 @@
     "category": "Utilities",
     "author": "drakmor",
     "description": "ShadowMount+ latest release including pre-releases (betas)."
+  },
+  {
+    "id": "orbit-store",
+    "name": "Orbit Store",
+    "repo": "saawant12/orbit-store-ps5",
+    "asset": "^orbit_store[.]elf$",
+    "prerelease": false,
+    "category": "Stores",
+    "author": "saawant12",
+    "description": "Orbit Store download service and browser interface (also used by Orbit Zero on PC)."
   }
 ]

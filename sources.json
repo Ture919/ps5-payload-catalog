@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ps5-suite-server",
+    "name": "PS5 Suite server",
+    "repo": "manos555555/PS5-Suite",
+    "asset": "^ps5_suite_server[.]elf$",
+    "prerelease": false,
+    "category": "Utilities",
+    "author": "manos555555",
+    "description": "On-console server for PS5 Suite (file transfer, game mount/launch, saves, system monitor). Client and payload versions must match."
+  },
+  {
+    "id": "pkg-receiver",
+    "name": "PKG Receiver",
+    "repo": "Loopayeh/pkg-sender",
+    "asset": "^pkg-receiver[.]elf$",
+    "prerelease": false,
+    "category": "Networking",
+    "author": "Loopayeh",
+    "description": "Receiver payload for PKG Sender / LoopFlow (send and install PKG files from PC or Android)."
+  },
+  {
+    "id": "shadowmountplus-beta",
+    "name": "ShadowMount+ (beta included)",
+    "repo": "drakmor/ShadowMountPlus",
+    "asset": "^shadowmountplus[.]elf$",
+    "prerelease": true,
+    "category": "Utilities",
+    "author": "drakmor",
+    "description": "ShadowMount+ latest release including pre-releases (betas)."
+  }
+]

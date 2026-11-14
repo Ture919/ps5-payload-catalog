@@ -1,0 +1,44 @@
+{
+  "name": "Ture919 PS5 payloads",
+  "payloads": [
+    {
+      "id": "ps5-suite-server",
+      "name": "PS5 Suite server",
+      "filename": "ps5_suite_server.elf",
+      "url": "https://github.com/manos555555/PS5-Suite/releases/download/v8.1.1/ps5_suite_server.elf",
+      "description": "On-console server for PS5 Suite (file transfer, game mount/launch, saves, system monitor). Client and payload versions must match.",
+      "version": "v8.1.1",
+      "last_update": "2026-11-09",
+      "category": "Utilities",
+      "checksum": "5ced382872a503e43db856076c319113a00a25fdddf747e3e575813c9f565237",
+      "author": "manos555555",
+      "source": "https://github.com/manos555555/PS5-Suite/releases/tag/v8.1.1"
+    },
+    {
+      "id": "pkg-receiver",
+      "name": "PKG Receiver",
+      "filename": "pkg-receiver.elf",
+      "url": "https://github.com/Loopayeh/pkg-sender/releases/download/v1.2.9/pkg-receiver.elf",
+      "description": "Receiver payload for PKG Sender / LoopFlow (send and install PKG files from PC or Android).",
+      "version": "v1.2.9",
+      "last_update": "2026-10-04",
+      "category": "Networking",
+      "checksum": "6946d52c6c04a3f43d3141a505394ba8e0c6923f17fe471054e11567c9a526c7",
+      "author": "Loopayeh",
+      "source": "https://github.com/Loopayeh/pkg-sender/releases/tag/v1.2.9"
+    },
+    {
+      "id": "shadowmountplus-beta",
+      "name": "ShadowMount+ (beta included)",
+      "filename": "shadowmountplus.elf",
+      "url": "https://github.com/drakmor/ShadowMountPlus/releases/download/1.7beta12/shadowmountplus.elf",
+      "description": "ShadowMount+ latest release including pre-releases (betas).",
+      "version": "1.7beta12",
+      "last_update": "2026-11-08",
+      "category": "Utilities",
+      "checksum": "8755172ec9bef1bff5453ea75606e0caf7c41b5963f94f5a1087e7e8c6d9b1bd",
+      "author": "drakmor",
+      "source": "https://github.com/drakmor/ShadowMountPlus/releases/tag/1.7beta12"
+    }
+  ]
+}
